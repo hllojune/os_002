@@ -196,7 +196,7 @@
   <!-- Stack growth direction indicator -->
   <g id="direction">
     <path d="M 30 150 L 30 300" stroke="#666" stroke-width="2" marker-end="url(#arrowhead2)"/>
-    <text x="15" y="220" font-size="12" fill="#666" transform="rotate(-90 15 220)">Stack 성장 방향</text>
+    <text x="15" y="220" font-size="12" fill="#666" transform="rotate(-90 15 220)">Stack 확장 방향</text>
   </g>
   
   <!-- Arrow marker definitions -->
