@@ -230,7 +230,7 @@ TOP → [c=4] → [b=2] → [a=1] → [main 함수 정의]
 
 ### 4.5. 스택(Stack) 변화 과정 시각화
 
-**[별도 SVG 다이어그램 참조]**
+![SVG 다이어그램 참조](stack-visualization.svg)
 
 다이어그램은 다음 5단계를 시각적으로 보여줍니다:
 1. **Step 1**: main 함수 진입 및 변수 선언 (a=1, b=2, c=4)
@@ -243,7 +243,7 @@ TOP → [c=4] → [b=2] → [a=1] → [main 함수 정의]
 
 ## 5. 코드 상세 분석 (Line-by-Line)
 
-**[별도 마크다운 문서 참조: "5. 코드 상세 분석 (Line-by-Line)"]**
+[별도 마크다운 문서 참조: "5. 코드 상세 분석 (Line-by-Line)"](line-by-line-analysis.md)
 
 본 섹션에서는 basic_interpreter.c의 전체 503줄을 다음과 같이 상세 분석합니다:
 
