@@ -204,8 +204,8 @@
     <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
       <polygon points="0 0, 10 3, 0 6" fill="#666"/>
     </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="10" refX="3" refY="9" orient="auto">
-      <polygon points="0 0, 6 0, 3 10" fill="#666"/>
+    <marker id="arrowhead2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <polygon points="0 0, 12 0, 6 12" fill="#666" transform="rotate(270, 6, 6)"/>
     </marker>
   </defs>
 </svg>
